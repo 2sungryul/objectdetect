@@ -7,7 +7,7 @@ Dependency : Opencv 4.6 with CUDA Support
 
 How to download, build, and run on Jetson nano
 
-$ git clone 
+$ git clone https://github.com/2sungryul/objectdetect.git
 
 $ cd objectdetect
 

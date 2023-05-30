@@ -1,7 +1,7 @@
 # objectdetect
 
 Object detection program using Yolov4 tiny
-Dependency : Opencv 4.6 with CUDA Support
+Dependency : Opencv 4.6 with GPU Support
 
 # What to do on Jetson nano
 
